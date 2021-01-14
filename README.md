@@ -1,7 +1,6 @@
 # Pitch-Prediction
-Predicting the next pitch
-
-Project Predicting the Next Pitch in Major League Baseball<br/>
+Master Thesis Project <br/>
+Predicting the Next Pitch in Major League Baseball<br/>
 Contains 5 Scripts
 
 SCRAPE_MLB<br/>
